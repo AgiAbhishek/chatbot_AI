@@ -1,0 +1,18 @@
+# AI Document Chatbot - .gitignore
+# Python
+*.py[cod]
+*.pyc
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
