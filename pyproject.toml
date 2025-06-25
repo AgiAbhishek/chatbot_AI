@@ -12,6 +12,7 @@ dependencies = [
     "scikit-learn",
     "openai",
 ]
+package-mode = false
 
 [build-system]
 requires = ["hatchling"]
