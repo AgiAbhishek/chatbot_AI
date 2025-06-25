@@ -301,4 +301,5 @@ def main():
                 st.session_state.messages.append({"role": "assistant", "content": error_msg})
 
 if __name__ == "__main__":
+    import streamlit as st
     main()
